@@ -1,0 +1,58 @@
+int melody[] = {
+
+    NOTE_A4, NOTE_FS5, NOTE_E5, NOTE_D5, NOTE_A4,
+  
+
+    NOTE_A4, NOTE_A4, NOTE_A4, NOTE_FS5, NOTE_E5, NOTE_D5, NOTE_B4,
+
+    NOTE_B4, NOTE_G5, NOTE_FS5, NOTE_E5, NOTE_CS5, 
+
+ 
+  NOTE_A5, NOTE_A5, NOTE_G5, NOTE_E5, NOTE_FS5, 0,
+  
+
+    NOTE_A4, NOTE_FS5, NOTE_E5, NOTE_D5, NOTE_A4,
+    
+  
+    NOTE_A4, NOTE_A4, NOTE_FS5, NOTE_E5, NOTE_D5, NOTE_B4,
+
+
+    NOTE_B4, NOTE_B4, NOTE_G5, NOTE_FS5, NOTE_E5, NOTE_A5, NOTE_A5, NOTE_A5, NOTE_A5, NOTE_B5, NOTE_A5, NOTE_G5, NOTE_E5, NOTE_D5, 0,
+ 
+
+
+    NOTE_FS5, NOTE_FS5, NOTE_FS5, NOTE_FS5, NOTE_FS5, NOTE_FS5, NOTE_FS5, NOTE_A5, NOTE_D4, NOTE_E5, NOTE_FS5, 
+
+
+    NOTE_G5, NOTE_G5, NOTE_G5, NOTE_G5, NOTE_G5, NOTE_FS5, NOTE_FS5, NOTE_FS5, NOTE_FS5,
+
+
+   NOTE_FS5, NOTE_E5, NOTE_E5, NOTE_FS5, NOTE_E5, NOTE_A5,
+
+
+    NOTE_FS5, NOTE_FS5, NOTE_FS5, NOTE_FS5, NOTE_FS5, NOTE_FS5, NOTE_FS5, NOTE_A5, NOTE_D4, NOTE_E5, NOTE_FS5, 
+
+
+    NOTE_G5, NOTE_G5, NOTE_G5, NOTE_G5, NOTE_G5, NOTE_FS5, NOTE_FS5, NOTE_FS5, NOTE_FS5,
+
+
+   NOTE_A5, NOTE_A5, NOTE_G5, NOTE_E5, NOTE_D5
+};
+
+
+int noteDurations[] = {
+  4, 4, 4, 4, 2,
+  4, 4, 4, 4, 4, 4, 2,
+  4, 4, 4, 4, 2,
+  4, 4, 4, 4, 2, 2,
+  4, 4, 4, 4, 2,
+  4, 4, 4, 4, 4, 2,
+  4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2,
+   
+  4, 4, 2, 4, 4, 2, 4, 4, 4, 4, 1, 
+  4, 4, 2, 4, 4, 4, 4, 4, 4, 
+  4, 4, 4, 4, 2, 2,
+  4, 4, 2, 4, 4, 2, 4, 4, 4, 4, 1, 
+  4, 4, 2, 4, 4, 4, 4, 4, 4, 
+  4, 4, 4, 4, 2
+};
