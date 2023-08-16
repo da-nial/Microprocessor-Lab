@@ -22,7 +22,6 @@ follows:
 | SRAM                      | 8 KB                            |
 | Clock Rate                | 16 MHz                          |
 
-Arduino MEGA 2560 Board
 
 Unlike my [Arduino-IoT-Arcade](https://github.com/da-nial/Arduino-IoT-Arcade) repository, circuits for these labs are
 not physically assembled but rather simulated in the Proteus Design suite. Thus, for each lab, their `pdsprj` Proteus
@@ -122,7 +121,7 @@ from right to left. The second button turns them on in reverse order. The last b
 
 <img src="docs/figs/lab08.png" alt="Lab 08">
 
-### Lab 9. Headers files in Arduino: Playing the Imperial March!
+### Lab 9. Header files in Arduino: Playing the Imperial March!
 
 - [**Q1.ino**] A button and a speaker are added to the microcontroller. The script plays the Jingle Bells melody using
   the pitches.h module.
