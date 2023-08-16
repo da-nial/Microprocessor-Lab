@@ -1,6 +1,6 @@
 # Microprocessor and Assembly Lab
 
-This repository, contains my solutions to the assignments of the Microprocessor and Assembly Laboratory course.
+This repository contains my solutions to the assignments of the Microprocessor and Assembly Laboratory course.
 The instructions for the assignments are in the `docs/instructions.pdf` file. For each assignment solution, there is
 sometimes a `report.pdf` or `prepatory_report.pdf` that covers the background knowledge needed for that assignment in
 Persian.
@@ -38,7 +38,7 @@ from right to left. The second button turns them on in reverse order. The last b
 ### Lab 2. Input Keypad and Serial Connection
 
 - [**Q1_and_2.ino**] 9 LEDs and a keypad are connected to the microcontroller. Pressing any digit key leads to turning
-  on its corresponding LED. The pressed key also appears on the virtual terminal. Pressing 'C' key turns all LEDs off.
+  on its corresponding LED. The pressed key also appears on the virtual terminal. Pressing the 'C' key turns all LEDs off.
 - [**Q3.ino**] This time, the input is received from the virtual terminal, and again, the corresponding LED is turned
   on.
 
