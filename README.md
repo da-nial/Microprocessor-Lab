@@ -1,4 +1,4 @@
-## Microprocessor and Assembly Lab
+# Microprocessor and Assembly Lab
 
 This repository, contains my solutions to the assignments of the Microprocessor and Assembly Laboratory course.
 The instructions for the assignments are in the `docs/instructions.pdf` file. For each assignment solution, there is
